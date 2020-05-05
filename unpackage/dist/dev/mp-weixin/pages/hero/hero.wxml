@@ -1,0 +1,1 @@
+<view><tabs bind:input="__e" vue-id="629baf00-1" list="{{roleList}}" value="{{currentRole}}" data-event-opts="{{[['^input',[['__set_model',['','currentRole','$event',[]]]]]]}}" bind:__l="__l"></tabs></view>

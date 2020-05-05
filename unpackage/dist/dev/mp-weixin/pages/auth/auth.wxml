@@ -1,0 +1,1 @@
+<view class="contaniner"><image src="../../static/imgs/auth.gif" mode="scaleToFill"></image><view class="content"><button class="cu-btn block bg-orange margin-top-sm" open-type="getUserInfo" data-event-opts="{{[['getuserinfo',[['handleGetUserInfo',['$event']]]]]}}" bindgetuserinfo="__e">授权信息</button></view></view>

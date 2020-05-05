@@ -1,0 +1,107 @@
+{
+  "id": "1774257",
+  "name": "ow",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12129575",
+      "name": "时长",
+      "font_class": "shichang-",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "977197",
+      "name": "治疗",
+      "font_class": "zhiliao",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "1194440",
+      "name": "死亡",
+      "font_class": "siwang",
+      "unicode": "e945",
+      "unicode_decimal": 59717
+    },
+    {
+      "icon_id": "5715349",
+      "name": "伤害异常",
+      "font_class": "shanghaiyichang",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "11492309",
+      "name": "击杀特效",
+      "font_class": "jishatexiao",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "7435193",
+      "name": "弹药@1x",
+      "font_class": "danyaox",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1138113",
+      "name": "十字",
+      "font_class": "shizi",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "2916589",
+      "name": "选手",
+      "font_class": "xuanshou",
+      "unicode": "e9c6",
+      "unicode_decimal": 59846
+    },
+    {
+      "icon_id": "5904270",
+      "name": "赛程",
+      "font_class": "saicheng",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "6417216",
+      "name": "盾牌",
+      "font_class": "dunpai",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "7653308",
+      "name": "守望先锋-2",
+      "font_class": "shouwangxianfeng-",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7828058",
+      "name": "子弹",
+      "font_class": "zidan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11301337",
+      "name": "英雄",
+      "font_class": "yingxiong",
+      "unicode": "e845",
+      "unicode_decimal": 59461
+    },
+    {
+      "icon_id": "4292512",
+      "name": "分类-守望先锋",
+      "font_class": "fenlei-shouwangxianfeng",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

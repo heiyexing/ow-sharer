@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/auth/auth",
+    "pages/account/account",
+    "pages/game/game",
+    "pages/hero/hero",
+    "pages/player/player",
+    "pages/player/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "守望先锋资讯站",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#f7931e",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tab/home.png",
+        "selectedIconPath": "static/tab/home-1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/game/game",
+        "iconPath": "static/tab/game.png",
+        "selectedIconPath": "static/tab/game-1.png",
+        "text": "赛程"
+      },
+      {
+        "pagePath": "pages/hero/hero",
+        "iconPath": "static/tab/hero.png",
+        "selectedIconPath": "static/tab/hero-1.png",
+        "text": "英雄"
+      },
+      {
+        "pagePath": "pages/player/player",
+        "iconPath": "static/tab/player.png",
+        "selectedIconPath": "static/tab/plyaer-1.png",
+        "text": "选手"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

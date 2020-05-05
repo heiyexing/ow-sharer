@@ -1,0 +1,1 @@
+<scroll-view class="bg-white nav" scroll-x><view class="flex text-center"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="{{['cu-item flex-sub',item.value==currentTab?'text-orange cur':'']}}" data-id="{{index}}" data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" bindtap="__e">{{''+item.label+''}}</view></block></view></scroll-view>
